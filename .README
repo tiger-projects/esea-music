@@ -1,0 +1,18 @@
+# ESEA Music Website
+
+## Getting Started
+
+To preview a development server with the site, run:
+
+```
+npm install
+npm start
+```
+
+All the main site content is contained in index.html
+Bundled JS and custom CSS/JS etc are contained in /theming
+Logos etc are stored in /assets
+
+## Hosting
+
+Hosting is set up via Tiger Projects Netlify account. Changes to `main` will trigger an automatic deploy
