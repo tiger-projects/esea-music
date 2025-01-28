@@ -1,0 +1,14 @@
+{
+  "name": "esea-music",
+  "version": "1.0.0",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server --port=8080 --host=localhost --open=/src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}

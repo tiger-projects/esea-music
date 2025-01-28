@@ -1,0 +1,198 @@
+@media (min-width: 0px) and (max-width: 575px) {
+  .container {
+    max-width: 100%;
+  }
+
+  /*--------------- HEADER_START --------------*/
+  /*--------------- HEADER_END --------------*/
+
+  /*--------------- CONTAIN_START --------------*/
+
+  .hero-logo-mlp img {
+    height: 300px;
+  }
+
+  .hero-info-block-mlp h1 {
+    font-size: 26px;
+    line-height: 31px;
+    padding-bottom: 18px;
+  }
+  .hero-info-block-mlp h1 br {
+    display: block;
+  }
+  .hero-info-block-mlp h1 span {
+    display: none;
+  }
+  .hero-info-block-mlp h2 {
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 1.6px;
+  }
+  .hero-info-block-mlp p {
+    width: 100%;
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .contact-info-mlp {
+    width: 100%;
+  }
+  .contact-info-r1-mlp {
+    padding-bottom: 19px;
+  }
+  .contact-info-r1-mlp:after {
+    display: none;
+  }
+  .contact-info-title-mlp {
+    float: none;
+    text-align: center;
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .contact-info-text-mlp {
+    float: none;
+    text-align: center;
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .return-top-link-mlp {
+    font-size: 16px;
+    line-height: 19px;
+    padding-top: 20px;
+  }
+  /*--------------- CONTAIN_END --------------*/
+
+  /*--------------- FOOTER_START --------------*/
+  /*--------------- FOOTER_END --------------*/
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+  .container {
+    max-width: 100%;
+  }
+
+  /*--------------- HEADER_START --------------*/
+  /*--------------- HEADER_END --------------*/
+
+  /*--------------- CONTAIN_START --------------*/
+
+  .hero-logo-mlp img {
+    height: 300px;
+  }
+  .hero-info-block-mlp h1 {
+    font-size: 26px;
+    line-height: 31px;
+    padding-bottom: 18px;
+  }
+  .hero-info-block-mlp h1 br {
+    display: block;
+  }
+  .hero-info-block-mlp h1 span {
+    display: none;
+    font-style: normal;
+  }
+  .hero-info-block-mlp h2 {
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 1.6px;
+  }
+
+  .hero-info-block-mlp p {
+    width: 100%;
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .hero-info-block-mlp {
+    width: 100%;
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .hero-info-block-mlp lg {
+    width: 810px;
+  }
+  .contact-info-mlp {
+    width: 100%;
+  }
+  .contact-info-r1-mlp {
+    padding-bottom: 19px;
+  }
+  .contact-info-r1-mlp:after {
+    display: none;
+  }
+  .contact-info-title-mlp {
+    float: none;
+    text-align: center;
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .contact-info-text-mlp {
+    float: none;
+    text-align: center;
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .return-top-link-mlp {
+    font-size: 16px;
+    line-height: 19px;
+    padding-top: 20px;
+  }
+  /*--------------- CONTAIN_END --------------*/
+  /*--------------- CONTAIN_END --------------*/
+
+  /*--------------- FOOTER_START --------------*/
+  /*--------------- FOOTER_END --------------*/
+}
+
+@media (min-width: 768px) {
+  .hero-info-block-mlp {
+    width: 610px;
+  }
+  .hero-info-block-mlp lg {
+    width: 810px;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .container {
+    max-width: 768px;
+  }
+
+  /*--------------- HEADER_START --------------*/
+  /*--------------- HEADER_END --------------*/
+
+  /*--------------- CONTAIN_START --------------*/
+  .hero-info-block-mlp h1 br {
+    display: block;
+  }
+  .hero-info-block-mlp h1 span {
+    display: none;
+  }
+
+  .hero-info-block-mlp {
+    width: 610px;
+  }
+  .hero-info-block-mlp lg {
+    width: 810px;
+  }
+  .hero-info-block-mlp ul {
+    width: 610px;
+  }
+
+  /*--------------- CONTAIN_END --------------*/
+
+  /*--------------- FOOTER_START --------------*/
+  /*--------------- FOOTER_END --------------*/
+}
+
+@media (min-width: 992px) and (max-width: 1159px) {
+  .container {
+    max-width: 992px;
+  }
+
+  /*--------------- HEADER_START --------------*/
+  /*--------------- HEADER_END --------------*/
+
+  /*--------------- CONTAIN_START --------------*/
+  /*--------------- CONTAIN_END --------------*/
+
+  /*--------------- FOOTER_START --------------*/
+  /*--------------- FOOTER_END --------------*/
+}

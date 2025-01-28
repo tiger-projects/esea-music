@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "jedermedium";
+  src: url("../fonts/jeder-medium-webfont.eot");
+  src: url("../fonts/jeder-medium-webfont.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/jeder-medium-webfont.woff2") format("woff2"),
+    url("../fonts/jeder-medium-webfont.woff") format("woff"),
+    url("../fonts/jeder-medium-webfont.ttf") format("truetype"),
+    url("../fonts/jeder-medium-webfont.svg#jedermedium") format("svg");
+  /* font-weight: normal; */
+  font-style: normal;
+}
